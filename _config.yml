@@ -113,8 +113,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Neha Miryala"
-  avatar           : "/assets/pics.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  #name             : "Neha Miryala"
+  #avatar           : "/assets/pics.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Masters in Computer Science at UMass Lowell. Actively seeking internships and full-time opportunities starting from May 2025."
   location         : "Lowell MA"
   email            : nehamiryala1910@gmail.com
