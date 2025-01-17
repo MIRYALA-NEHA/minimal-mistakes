@@ -1,12 +1,15 @@
-# main links
+# Main navigation links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Education"
+    url: "/education/" # Points to the homepage
+  - title: "Skills"
+    url: "/skills/"
+  - title: "Experience"
+    url: "/experience/"
+   # Add a page for "About Me"
+  - title: "Web Development Projects"
+    url: "/wprojects/" # Add a page for your projects
+  - title: "Data Science Projects"
+    url: "/dprojects/"
+   # Add a blog page
+    # Add a contact page

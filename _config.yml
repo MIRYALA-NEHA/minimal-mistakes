@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Neha Miryala"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Neha Miryala"
 description              : "Portfolio"
 url                      : "https://MIRYALA-NEHA.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Neha"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Neha Miryala"
+  avatar           : "/assets/pics.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Masters in Computer Science at UMass Lowell. Actively seeking internships and full-time opportunities starting from May 2025."
   location         : "Lowell MA"
-  email            :
+  email            : nehamiryala1910@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -125,9 +125,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/neha-miryala-a7494718b/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -323,3 +323,12 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true # Enables the author profile
+      sidebar: true # Enables the sidebar
+      sidebar_nav: main # Links to _data/navigation.yml
