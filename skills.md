@@ -16,4 +16,4 @@ permalink: /skills/
 - [Neural Networks and Deep Learning](https://coursera.org/share/283881b490d969a7b90193a0c3dccf27) - Coursera
 - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/4a3637d932edd1b8e5a2f2087cd81e95) - Coursera
 - [Structuring Machine Learning Projects](https://coursera.org/share/e3d36d5dec3724dcfd8a14110bda1cc3) - Coursera
-- [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://coursera.org/share/e3d36d5dec3724dcfd8a14110bda1cc3) - Coursera
+- [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://coursera.org/share/80aa6cf8ca8cfee9aaa91c4501301d17) - Coursera
