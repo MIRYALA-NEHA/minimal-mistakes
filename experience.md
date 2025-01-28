@@ -4,9 +4,9 @@ layout: single
 title: "Work Experience"
 permalink: /experience/
 ---
-### **Database Intern**  
+### **Back-end Developer**  
 *UMass Lowell, Lowell, MA*  
-*April 2024 – Present*  
+*January 2024 – Present*  
 
 - Optimized SQL Server architecture to store large-scale energy datasets and established the first Energy
 Management SQL Server, **improving query performance by 30%** and enabling real-time, interactive dashboards.
@@ -24,7 +24,7 @@ procurement data.
 
 ### **Energy Data Analyst**  
 *UMass Lowell, Lowell, MA*  
-*October 2023 – March 2024*  
+*October 2023 – December 2023*  
 
 - Built public-facing Tableau and ArcGIS dashboards with Arcade scripting, promoting energy efficiency across
 campus.  
